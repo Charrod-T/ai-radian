@@ -1,6 +1,6 @@
-# Radian AI
+# Ai Radian
 
-**Radian AI** is a clean, responsive landing page built to showcase a modern AI-focused brand. The site emphasizes clarity, accessibility, and smooth responsiveness across desktop, tablet, and mobile devices.
+**Ai Radian** is a clean, responsive landing page built to showcase a modern AI-focused brand. The site emphasizes clarity, accessibility, and smooth responsiveness across desktop, tablet, and mobile devices.
 
 🔗 **Live Demo:** https://charrod-t.github.io/radian-ai/
 
